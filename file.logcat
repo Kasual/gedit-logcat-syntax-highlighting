@@ -1,18 +1,18 @@
---------- beginning of /dev/log/system 
+--------- beginning of /dev/log/system
 V/test    (  145): The quick brown fox jumps over the lazy dog
 D/test    (  141): The quick brown fox jumps over the lazy dog
 I/test    (  141): The quick brown fox jumps over the lazy dog
 W/test    (  141): The quick brown fox jumps over the lazy dog
 E/test    (  141): The quick brown fox jumps over the lazy dog
 F/test    (  141): The quick brown fox jumps over the lazy dog
---------- beginning of /dev/log/system 
+--------- beginning of /dev/log/system
 V(test    (  145): The quick brown fox jumps over the lazy dog
 D(test    (  141): The quick brown fox jumps over the lazy dog
 I(test    (  141): The quick brown fox jumps over the lazy dog
 W(test    (  141): The quick brown fox jumps over the lazy dog
 E(test    (  141): The quick brown fox jumps over the lazy dog
 F(test    (  141): The quick brown fox jumps over the lazy dog
---------- beginning of /dev/log/main 
+--------- beginning of /dev/log/main
 01-28 12:36:22.826     8     8 V TEST    : "The quick brown fox jumps over the lazy dog"
 01-28 12:36:22.826    98    98 D TEST    : "The quick brown fox jumps over the lazy dog"
 01-28 12:36:22.826   398   398 I TEST    : "The quick brown fox jumps over the lazy dog"
